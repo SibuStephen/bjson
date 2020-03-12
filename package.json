@@ -18,7 +18,7 @@
   "homepage": "https://github.com/renatorib/bjson#readme",
   "dependencies": {
     "graceful-fs": "^4.1.2",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.0",
     "observed": "^1.1.1",
     "steno": "^0.4.2"
   }
